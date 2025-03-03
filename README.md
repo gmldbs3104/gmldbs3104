@@ -17,13 +17,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@gmldbs3104/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@gmldbs3104/"> </a>
-         <a href=https://www.notion.so/Heeyun-Ju-bf7f9c027fab4c5cbfd9890a9c5cbb40> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Heeyun-Ju-bf7f9c027fab4c5cbfd9890a9c5cbb40"> </a>
+         <a href=https://www.notion.so/Heeyun-Ju-bf7f9c027fab4c5cbfd9890a9c5cbb40> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Heeyun-Ju-bf7f9c027fab4c5cbfd9890a9c5cbb40?pvs=4"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=gmldbs3104&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmldbs3104&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
     </div>
     
